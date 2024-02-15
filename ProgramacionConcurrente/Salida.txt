@@ -1,0 +1,1 @@
+Este es el Hola.class dentro de un paquete
