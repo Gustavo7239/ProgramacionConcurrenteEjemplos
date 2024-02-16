@@ -17,7 +17,6 @@ public class Cliente {
 
 public static void main(String[] args) {
 
-		
 		Socket clienteSocket;
 		ServerSocket serverSocket;
 		InputStream is;
@@ -72,5 +71,3 @@ public static void main(String[] args) {
 	}
 
 }
-
-
